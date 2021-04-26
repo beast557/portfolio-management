@@ -29,3 +29,7 @@ It should open both the frontend and backend server using concurrently. Also a w
 You can use postman to create new stocks via the backend route provided below:
 
 >http://localhost:5000/api/v1/stock/create_stock
+
+**If there is Error while running the server?**
+
+If there is any error make sure to check the available ports in your device.
