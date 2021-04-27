@@ -32,4 +32,6 @@ You can use postman to create new stocks via the backend route provided below:
 
 **If there is Error while running the server?**
 
-If there is any error make sure to check the available ports in your device.
+Make sure there is database with the name "portfolio" or you can make one using MySQL workbench.
+
+Also make sure to check the available ports in your device.
